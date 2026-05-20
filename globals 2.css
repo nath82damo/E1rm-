@@ -1,0 +1,31 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #080808;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+input, select {
+  background: #151515;
+  color: white;
+  border: 1px solid #2a2a2a;
+  border-radius: 14px;
+  padding: 14px;
+  width: 100%;
+  font-size: 16px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 12px 0;
+  border-bottom: 1px solid #1f1f1f;
+}
